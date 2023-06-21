@@ -31,7 +31,7 @@ ____
 [telegram]: https://t.me/ArtOfTheSky
 [linkedin]: https://www.linkedin.com/in/artyom-dakhya/
 [discord]: https://discord.com/users/278832876492161024/
-[stepik]: [https://www.kaggle.com/artyomd](https://stepik.org/users/75666141)
+[stepik]: https://stepik.org/users/75666141
 [kaggle]: https://www.kaggle.com/artyomd
 
 ____
