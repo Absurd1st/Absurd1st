@@ -36,7 +36,6 @@ ____
 
 :fire: **My Stats:**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Absurd1st&theme=monokai)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Absurd1st&theme=github)
 
 ![](https://komarev.com/ghpvc/?username=Absurd1st-github-username&color=blue)
