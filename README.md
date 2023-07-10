@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 👋 About me: 
 ____
-Всем привет! Меня зовут Артём, я студент в Karpov Courses на курсе "Аналитик Данных". 
+Привет! Меня зовут Артём, я студент в Karpov Courses на курсе "Аналитик Данных". 
 ____
 :mailbox: **Connect with me (social media and public profiles):** 
 
